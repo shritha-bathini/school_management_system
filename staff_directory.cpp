@@ -1,11 +1,11 @@
-class staff_diractory
+class staff_directory
 {
 private:
     staff *head;
     staff *tail;
 
 public:
-    staff_diractory()
+    staff_directory()
     {
         head = nullptr;
         tail = nullptr;
