@@ -18,7 +18,7 @@ int main()
     admission.student_deletion();
     admission.displayStudents();
 
-    staff_diractory staff;
+    staff_directory staff;
     staff.new_joining();
     staff.displayStaff();
     staff.edit_details();
